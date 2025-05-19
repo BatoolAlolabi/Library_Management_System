@@ -203,7 +203,7 @@ if ($selected_material) {
     cursor: pointer;
     padding: 12px 15px;
     background: rgb(171, 181, 191);
-    color: white;
+    color: black;
     border-radius: 5px;
     margin-bottom: 5px;
     font-weight: bold;
